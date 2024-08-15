@@ -13,5 +13,8 @@ import lombok.Setter;
 public class EmailAuthProperties {
 
 	private String senderEmail;
+	
+	
+	
 	private Long expirationTime;
 }

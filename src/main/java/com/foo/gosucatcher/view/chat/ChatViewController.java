@@ -14,5 +14,9 @@ public class ChatViewController {
 	@GetMapping("/chats")
 	public String chats() {
 		return "chat/chats";
+		
+		
+		
+		
 	}
 }
